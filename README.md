@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C.
 - 📫 How to reach me arthurvrr@hotmail.com
 - I'm studying Computer Science at Federal University of Rio grande do Sul, Brazil.
-- To improve my programming skills.
+- Improving my programming skills.
 
 
 <!---
