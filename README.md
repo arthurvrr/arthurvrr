@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @arthurvrr
-- 👀 I’m interested in Bussines and computer science.
-- 📫 How to reach me arthurvrr@hotmail.com
 - I'm studying Computer Science at Federal University of Rio grande do Sul, Brazil.
 - Improving my programming skills.
 
