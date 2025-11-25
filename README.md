@@ -1,4 +1,3 @@
-- I'm studying Computer Science at Federal University of Rio grande do Sul, Brazil.
 - Improving my programming skills.
 
 
